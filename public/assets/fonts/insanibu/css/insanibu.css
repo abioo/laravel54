@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Insanibu';
+    src: url("../fonts/insanibu.eot");
+    src: url("../fonts/insanibu.eot") format('embedded-opentype'), url("../fonts/insanibu.woff2") format('woff2'), url("../fonts/insanibu.woff") format('woff'), url("../fonts/insanibu.ttf") format('truetype'), url("../fonts/insanibu.svg") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
